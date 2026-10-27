@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "nameKh": "ប្រាសាទអង្គរវត្ត",
+    "nameEn": "Angkor Wat Temple",
+    "category": "Historical",
+    "province": "សៀមរាប",
+    "image": "/angkor.jpg",
+    "rating": 4.9,
+    "descriptionKh": "មហាអច្ឆរិយវត្ថុពិភពលោក និងជានិមិត្តរូបកំពូលនៃអារ្យធម៌ខ្មែរ ស្ថិតក្នុងខេត្តសៀមរាប។",
+    "descriptionEn": "The world's largest religious monument and Cambodia's iconic UNESCO World Heritage site.",
+    "price": "$37",
+    "mapUrl": "https://maps.google.com/?q=Angkor+Wat+Siem+Reap"
+  },
+  {
+    "id": "2",
+    "nameKh": "ឆ្នេរកោះរ៉ុង",
+    "nameEn": "Koh Rong Island Beach",
+    "category": "Coastal",
+    "province": "ព្រះសីហនុ",
+    "image": "/kohrong.jpg",
+    "rating": 4.8,
+    "descriptionKh": "កោះធម្មជាតិដ៏ស្រស់បំព្រង ឆ្នេរខ្សាច់សក្បុស និងទឹកសមុទ្រថ្លាឆ្លុះ។",
+    "descriptionEn": "Pristine white sand beaches and turquoise crystal waters ideal for relaxation.",
+    "price": "Free",
+    "mapUrl": "https://maps.google.com/?q=Koh+Rong+Sihanoukville"
+  },
+  {
+    "id": "3",
+    "nameKh": "ឧទ្យានជាតិភ្នំបូកគោ",
+    "nameEn": "Bokor National Park",
+    "category": "Nature",
+    "province": "កំពត",
+    "image": "/bokor.jpg",
+    "rating": 4.7,
+    "descriptionKh": "រមណីយដ្ឋានធម្មជាតិលើខ្នងភ្នំ អាកាសធាតុត្រជាក់ពេញមួយឆ្នាំ និងទេសភាពពពកហោះយ៉ាងស្រស់ត្រកាល។",
+    "descriptionEn": "Highland climate, historical French colonial architecture, and scenic natural views.",
+    "price": "Free",
+    "mapUrl": "https://maps.google.com/?q=Bokor+National+Park+Kampot"
+  },
+  {
+    "id": "4",
+    "nameKh": "ទឹកធ្លាក់ប៊ូស្រា",
+    "nameEn": "Bousra Waterfall",
+    "category": "Nature",
+    "province": "មណ្ឌលគិរី",
+    "image": "/bousra.jpg",
+    "rating": 4.6,
+    "descriptionKh": "ទឹកធ្លាក់ធម្មជាតិដ៏ល្បីល្បាញកម្ពស់ពីរជាន់ ព័ទ្ធជុំវិញដោយព្រៃឈើខៀវស្រងាត់នៃខេត្តមណ្ឌលគិរី។",
+    "descriptionEn": "A breathtaking double-drop waterfall set within Mondulkiri's lush tropical jungles.",
+    "price": "$1",
+    "mapUrl": "https://maps.google.com/?q=Bousra+Waterfall+Mondulkiri"
+  },
+  {
+    "id": "5",
+    "nameKh": "ព្រះបរមរាជវាំង",
+    "nameEn": "Royal Palace",
+    "category": "Culture",
+    "province": "រាជធានីភ្នំពេញ",
+    "image": "/palace.jpg",
+    "rating": 4.7,
+    "descriptionKh": "ព្រះរាជដំណាក់ និងស្ថាបត្យកម្មខ្មែរប្រពៃណីដ៏ល្អឯក បេះដូងនៃរាជធានីភ្នំពេញ។",
+    "descriptionEn": "The royal residence showcasing classic Khmer ornamentation in Phnom Penh.",
+    "price": "$10",
+    "mapUrl": "https://maps.google.com/?q=Royal+Palace+Phnom+Penh"
+  },
+  {
+    "id": "6",
+    "nameKh": "ប្រាសាទព្រះវិហារ",
+    "nameEn": "Preah Vihear Temple",
+    "category": "Historical",
+    "province": "ព្រះវិហារ",
+    "image": "/preahvihear.jpg",
+    "rating": 4.9,
+    "descriptionKh": "ប្រាសាទបុរាណសង់លើជម្រាលភ្នំដងរែក ផ្ដល់នូវទស្សនីយភាពជើងមេឃដ៏អស្ចារ្យ។",
+    "descriptionEn": "An ancient Hindu sanctuary set atop a 525m cliff in the Dângrêk range.",
+    "price": "$10",
+    "mapUrl": "https://maps.google.com/?q=Preah+Vihear+Temple"
+  }
+]
